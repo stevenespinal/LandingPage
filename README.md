@@ -2,7 +2,8 @@
 Responsive landing page layout using skeleton css &amp; html.
 
 
-![LandingPage](images/goodeats.png)(images/responsive.png)
+![LandingPage](images/goodeats.png)
+![responsiveness](images/responsive.png)
 
 # Steps to reproduce this application to your local machine:
 1. Simply clone this repo on your desktop either using SSH or HTTPS
